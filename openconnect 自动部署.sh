@@ -43,5 +43,6 @@ cd lz4-r127
 make && make install
 
 sudo /etc/init.d/ocserv restart
+bash /root/ip.sh
 
 
